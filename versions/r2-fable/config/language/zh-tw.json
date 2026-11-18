@@ -1,0 +1,17 @@
+{
+  "language_name": "繁體中文",
+  "loading": "載入中 {percent}%",
+  "enter": "點擊開始",
+  "hint_controls": "按住畫面左側或右側漂移",
+  "hint_keys": "← → 或 A / D 漂移",
+  "result_flame_out": "燈火熄滅了",
+  "result_crashed": "天燈撞毀了",
+  "result_height": "高度",
+  "result_wishes": "願望",
+  "result_best": "最佳",
+  "result_new_best": "新紀錄！",
+  "retry": "再放一盞",
+  "height_value": "{value} 公尺",
+  "aria_left": "往左漂移",
+  "aria_right": "往右漂移"
+}

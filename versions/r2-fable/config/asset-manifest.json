@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "bg_base",
+      "type": "image",
+      "relativePath": "textures/bg_base.webp"
+    },
+    {
+      "id": "deco_lantern",
+      "type": "image",
+      "relativePath": "textures/deco_lantern.webp"
+    },
+    {
+      "id": "deco_spark",
+      "type": "image",
+      "relativePath": "textures/deco_spark.webp"
+    },
+    {
+      "id": "deco_star",
+      "type": "image",
+      "relativePath": "textures/deco_star.webp"
+    },
+    {
+      "id": "deco_bird",
+      "type": "image",
+      "relativePath": "textures/deco_bird.webp"
+    },
+    {
+      "id": "deco_cloud",
+      "type": "image",
+      "relativePath": "textures/deco_cloud.webp"
+    },
+    {
+      "id": "deco_eave",
+      "type": "image",
+      "relativePath": "textures/deco_eave.webp"
+    },
+    {
+      "id": "deco_wire",
+      "type": "image",
+      "relativePath": "textures/deco_wire.webp"
+    },
+    {
+      "id": "logo_base",
+      "type": "image",
+      "relativePath": "textures/logo_base.webp"
+    },
+    {
+      "id": "panel_base",
+      "type": "image",
+      "relativePath": "textures/panel_base.webp"
+    },
+    {
+      "id": "panel_gauge",
+      "type": "image",
+      "relativePath": "textures/panel_gauge.webp"
+    },
+    {
+      "id": "panel_wish",
+      "type": "image",
+      "relativePath": "textures/panel_wish.webp"
+    },
+    {
+      "id": "panel_height",
+      "type": "image",
+      "relativePath": "textures/panel_height.webp"
+    },
+    {
+      "id": "panel_button",
+      "type": "image",
+      "relativePath": "textures/panel_button.webp"
+    },
+    {
+      "id": "panel_tab",
+      "type": "image",
+      "relativePath": "textures/panel_tab.webp"
+    },
+    {
+      "id": "icon_arrow",
+      "type": "image",
+      "relativePath": "textures/icon_arrow.webp"
+    },
+    {
+      "id": "bgm_base",
+      "type": "audio",
+      "relativePath": "audio/bgm_base.mp3"
+    },
+    {
+      "id": "sfx_spark_collect",
+      "type": "audio",
+      "relativePath": "audio/sfx_spark_collect.mp3"
+    },
+    {
+      "id": "sfx_star_collect",
+      "type": "audio",
+      "relativePath": "audio/sfx_star_collect.mp3"
+    },
+    {
+      "id": "sfx_rain_hit",
+      "type": "audio",
+      "relativePath": "audio/sfx_rain_hit.mp3"
+    },
+    {
+      "id": "sfx_crash",
+      "type": "audio",
+      "relativePath": "audio/sfx_crash.mp3"
+    },
+    {
+      "id": "sfx_flame_out",
+      "type": "audio",
+      "relativePath": "audio/sfx_flame_out.mp3"
+    },
+    {
+      "id": "sfx_ui_hover",
+      "type": "audio",
+      "relativePath": "audio/sfx_ui_hover.mp3"
+    },
+    {
+      "id": "sfx_ui_press",
+      "type": "audio",
+      "relativePath": "audio/sfx_ui_press.mp3"
+    },
+    {
+      "id": "sfx_result",
+      "type": "audio",
+      "relativePath": "audio/sfx_result.mp3"
+    }
+  ]
+}

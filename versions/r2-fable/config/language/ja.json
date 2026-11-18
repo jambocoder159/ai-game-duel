@@ -1,0 +1,17 @@
+{
+  "language_name": "日本語",
+  "loading": "読み込み中 {percent}%",
+  "enter": "タップで開始",
+  "hint_controls": "画面の左右を押し続けて移動",
+  "hint_keys": "← → または A / D で移動",
+  "result_flame_out": "灯火が消えた",
+  "result_crashed": "ランタンがぶつかった",
+  "result_height": "高さ",
+  "result_wishes": "願い",
+  "result_best": "ベスト",
+  "result_new_best": "新記録！",
+  "retry": "もう一度",
+  "height_value": "{value} m",
+  "aria_left": "左へ移動",
+  "aria_right": "右へ移動"
+}

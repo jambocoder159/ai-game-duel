@@ -1,0 +1,17 @@
+{
+  "language_name": "简体中文",
+  "loading": "加载中 {percent}%",
+  "enter": "点击开始",
+  "hint_controls": "按住屏幕左侧或右侧漂移",
+  "hint_keys": "← → 或 A / D 漂移",
+  "result_flame_out": "灯火熄灭了",
+  "result_crashed": "天灯撞毁了",
+  "result_height": "高度",
+  "result_wishes": "愿望",
+  "result_best": "最佳",
+  "result_new_best": "新纪录！",
+  "retry": "再放一盏",
+  "height_value": "{value} 米",
+  "aria_left": "向左漂移",
+  "aria_right": "向右漂移"
+}

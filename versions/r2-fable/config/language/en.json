@@ -1,0 +1,17 @@
+{
+  "language_name": "English",
+  "loading": "Loading {percent}%",
+  "enter": "Tap to Start",
+  "hint_controls": "Hold the left or right side to drift",
+  "hint_keys": "← → or A / D to drift",
+  "result_flame_out": "The flame went out",
+  "result_crashed": "The lantern crashed",
+  "result_height": "Height",
+  "result_wishes": "Wishes",
+  "result_best": "Best",
+  "result_new_best": "New best!",
+  "retry": "Fly Again",
+  "height_value": "{value} m",
+  "aria_left": "Drift left",
+  "aria_right": "Drift right"
+}

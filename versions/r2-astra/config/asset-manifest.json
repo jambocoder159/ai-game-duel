@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "bgm_festival",
+      "type": "audio",
+      "relativePath": "audio/bgm_festival.ogg"
+    },
+    {
+      "id": "sfx_crash",
+      "type": "audio",
+      "relativePath": "audio/sfx_crash.ogg"
+    },
+    {
+      "id": "sfx_ember",
+      "type": "audio",
+      "relativePath": "audio/sfx_ember.ogg"
+    },
+    {
+      "id": "sfx_launch",
+      "type": "audio",
+      "relativePath": "audio/sfx_launch.ogg"
+    },
+    {
+      "id": "sfx_press",
+      "type": "audio",
+      "relativePath": "audio/sfx_press.ogg"
+    },
+    {
+      "id": "sfx_rain",
+      "type": "audio",
+      "relativePath": "audio/sfx_rain.ogg"
+    },
+    {
+      "id": "sfx_wish",
+      "type": "audio",
+      "relativePath": "audio/sfx_wish.ogg"
+    },
+    {
+      "id": "bg_pingxi",
+      "type": "image",
+      "relativePath": "textures/bg_pingxi.webp"
+    },
+    {
+      "id": "bg_sky",
+      "type": "image",
+      "relativePath": "textures/bg_sky.webp"
+    },
+    {
+      "id": "logo_title_cn",
+      "type": "image",
+      "relativePath": "textures/logo_title_cn.webp"
+    },
+    {
+      "id": "logo_title_en",
+      "type": "image",
+      "relativePath": "textures/logo_title_en.webp"
+    },
+    {
+      "id": "logo_title_ja",
+      "type": "image",
+      "relativePath": "textures/logo_title_ja.webp"
+    },
+    {
+      "id": "logo_title_tw",
+      "type": "image",
+      "relativePath": "textures/logo_title_tw.webp"
+    },
+    {
+      "id": "panel_gold",
+      "type": "image",
+      "relativePath": "textures/panel_gold.webp"
+    },
+    {
+      "id": "panel_jade",
+      "type": "image",
+      "relativePath": "textures/panel_jade.webp"
+    },
+    {
+      "id": "sym_eave",
+      "type": "image",
+      "relativePath": "textures/sym_eave.webp"
+    },
+    {
+      "id": "sym_ember",
+      "type": "image",
+      "relativePath": "textures/sym_ember.webp"
+    },
+    {
+      "id": "sym_lantern",
+      "type": "image",
+      "relativePath": "textures/sym_lantern.webp"
+    },
+    {
+      "id": "sym_rain",
+      "type": "image",
+      "relativePath": "textures/sym_rain.webp"
+    },
+    {
+      "id": "sym_swallow",
+      "type": "image",
+      "relativePath": "textures/sym_swallow.webp"
+    },
+    {
+      "id": "sym_wire",
+      "type": "image",
+      "relativePath": "textures/sym_wire.webp"
+    },
+    {
+      "id": "sym_wish",
+      "type": "image",
+      "relativePath": "textures/sym_wish.webp"
+    }
+  ]
+}
