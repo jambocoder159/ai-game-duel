@@ -1,0 +1,8 @@
+.DS_Store
+screenshots/
+.browser-check/
+.codex/
+.agents/
+.aws/
+.env
+*.log

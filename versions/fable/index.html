@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#2a1838">
+<title>柑仔的晚霞航空信</title>
+<link rel="icon" type="image/png" href="../../assets/stamp.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="stage">
+  <div id="frame">
+    <canvas id="game" width="960" height="640" tabindex="0" role="img"
+      aria-label="柑仔的晚霞航空信：操控坐在紙飛機上的小貓柑仔，收集晚霞郵票並閃避雷雲。"></canvas>
+    <div id="topButtons">
+      <button id="btnMute" type="button" aria-label="切換音效" aria-pressed="false">音效開</button>
+      <button id="btnPause" type="button" aria-label="暫停或繼續遊戲">暫停</button>
+    </div>
+    <button id="btnDash" type="button" aria-label="翻滾衝刺" hidden>翻滾</button>
+  </div>
+  <p id="hint">方向鍵／WASD 移動　空白鍵 翻滾　P 暫停　M 靜音　｜　觸控：拖曳移動，點「翻滾」鈕衝刺</p>
+  <div id="live" class="sr-only" aria-live="polite"></div>
+  <noscript>這個遊戲需要啟用 JavaScript 才能遊玩。</noscript>
+</main>
+<script src="game.js"></script>
+</body>
+</html>

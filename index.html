@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>同一組素材 兩個 AI 做的遊戲</title>
+  <meta name="description" content="GPT-6.2 Astra 生圖並寫成《夕陽郵航》，Claude Fable 5.2 用同一組素材再寫《柑仔的晚霞航空信》。同一個頁面可以切換兩個版本直接玩。">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:title" content="同一組素材 兩個 AI 做的遊戲">
+  <meta property="og:description" content="GPT-6.2 Astra 生圖加寫程式，Claude Fable 5.2 只用同一組素材再寫一版。打開就能切換著玩。">
+  <meta property="og:url" content="https://jambocoder159.github.io/ai-game-duel/">
+  <meta property="og:image" content="https://jambocoder159.github.io/ai-game-duel/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="同一組素材 兩個 AI 做的遊戲">
+  <meta name="twitter:description" content="GPT-6.2 Astra 生圖加寫程式，Claude Fable 5.2 只用同一組素材再寫一版。打開就能切換著玩。">
+  <meta name="twitter:image" content="https://jambocoder159.github.io/ai-game-duel/og-image.jpg">
+  <link rel="icon" type="image/png" href="assets/stamp.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#play-btn">跳到遊戲</a>
+  <header class="top">
+    <p class="eyebrow">公開測試</p>
+    <h1>同一組素材 兩個 AI 做的遊戲</h1>
+    <p class="lede">GPT-6.2 Astra 負責生圖和寫程式，做出《夕陽郵航》。Claude Fable 5.2 只用同一組 5 張圖，再寫一版《柑仔的晚霞航空信》。下面可以切換版本，直接在瀏覽器裡玩。</p>
+  </header>
+  <main>
+    <div class="toolbar">
+      <div class="tabs" role="tablist" aria-label="選擇遊戲版本">
+        <button type="button" role="tab" id="tab-astra" data-version="astra" aria-controls="panel-game" aria-selected="true" tabindex="0">夕陽郵航</button>
+        <button type="button" role="tab" id="tab-fable" data-version="fable" aria-controls="panel-game" aria-selected="false" tabindex="-1">晚霞航空信</button>
+      </div>
+      <p id="version-stats" class="stats">GPT-6.2 Astra　生圖加寫程式　｜　13 分 44 秒　｜　game.js 262 行　｜　介入 1 次</p>
+      <button type="button" id="play-btn">開始玩</button>
+    </div>
+    <div id="panel-game" class="stage" role="tabpanel" aria-labelledby="tab-astra">
+      <iframe id="play-frame" title="夕陽郵航，GPT-6.2 Astra 做的遊戲" src="versions/astra/index.html" tabindex="0" allow="fullscreen"></iframe>
+    </div>
+  </main>
+  <footer>
+    <p>這個頁面是公開的，沒有密碼、沒有登入、也沒有追蹤。兩個遊戲都在你的瀏覽器裡跑。鍵盤遊玩前請先按「開始玩」，讓焦點進入遊戲畫面。</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
